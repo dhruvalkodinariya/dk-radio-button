@@ -1,0 +1,34 @@
+{
+  "name": "@dhruval/dk-radio-button",
+  "version": "1.0.0",
+  "description": "Material design radio button using polymer lit-element",
+  "main": "dk-radio-button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material-design",
+    "lit-element",
+    "radio-button",
+    "polymer"
+  ],
+  "author": "Dhruval Kodinariya",
+  "license": "ISC",
+  "dependencies": {
+    "@dhruval/material-styles": "^1.1.0",
+    "@material/mwc-radio": "^0.15.0",
+    "lit-element": "^2.3.1"
+  },
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvalkodinariya/dk-radio-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhruvalkodinariya/dk-radio-button/issues"
+  },
+  "homepage": "https://github.com/dhruvalkodinariya/dk-radio-button#readme"
+}
